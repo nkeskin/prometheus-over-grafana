@@ -2,7 +2,7 @@
 
 Project contains a simple Spring Boot demo for showing Prometheus metrics over Grafana. Installation instructions are for Linux only.
 
-**This project is only for demo purposes, use it at your own risk!**
+**This project is only for demo purposes!**
 
 * After downloading project, import project with your preferred IDE and from pom and do mvn clean - install
 * Install and run Prometheus : 
