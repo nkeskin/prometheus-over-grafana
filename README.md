@@ -45,4 +45,4 @@ Project contains a simple Spring Boot demo for showing Prometheus metrics over G
   * Spring boot 3.0.1
   * Prometheus 2.41.0 Linux Amd64
   * Grafana Enterprise 9.3.2 Amd64
-  * JDK 1.8
+  * JDK 17

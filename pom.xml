@@ -15,7 +15,7 @@
   <name>Prometheus Metrics over Grafana</name>
   <description>A spring boot demo project for prometheus metrics over grafana</description>
   <properties>
-    <java.version>1.8</java.version>
+    <java.version>17</java.version>
   </properties>
   <dependencies>
 
